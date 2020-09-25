@@ -1,0 +1,10 @@
+E:\Repositorios 2020\Componentes 2020\Lab1_Parte2_Componentes\ControlWindows\ControlWindows\bin\Debug\ControlWindows.exe.config
+E:\Repositorios 2020\Componentes 2020\Lab1_Parte2_Componentes\ControlWindows\ControlWindows\bin\Debug\ControlWindows.exe
+E:\Repositorios 2020\Componentes 2020\Lab1_Parte2_Componentes\ControlWindows\ControlWindows\bin\Debug\ControlWindows.pdb
+E:\Repositorios 2020\Componentes 2020\Lab1_Parte2_Componentes\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csprojAssemblyReference.cache
+E:\Repositorios 2020\Componentes 2020\Lab1_Parte2_Componentes\ControlWindows\ControlWindows\obj\Debug\ControlWindows.Form1.resources
+E:\Repositorios 2020\Componentes 2020\Lab1_Parte2_Componentes\ControlWindows\ControlWindows\obj\Debug\ControlWindows.Properties.Resources.resources
+E:\Repositorios 2020\Componentes 2020\Lab1_Parte2_Componentes\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.GenerateResource.cache
+E:\Repositorios 2020\Componentes 2020\Lab1_Parte2_Componentes\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.CoreCompileInputs.cache
+E:\Repositorios 2020\Componentes 2020\Lab1_Parte2_Componentes\ControlWindows\ControlWindows\obj\Debug\ControlWindows.exe
+E:\Repositorios 2020\Componentes 2020\Lab1_Parte2_Componentes\ControlWindows\ControlWindows\obj\Debug\ControlWindows.pdb
